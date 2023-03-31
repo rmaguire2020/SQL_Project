@@ -1,6 +1,5 @@
 # SQL_Project_Farm
-![Cow](https://media.giphy.com/media/Vp3ftHKvKpASA/giphy.gif)
-![](http://clipart-library.com/clipart/1923526.htm)
+
 
 
 SS Links

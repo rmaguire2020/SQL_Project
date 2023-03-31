@@ -53,7 +53,7 @@ The problem being modeled by the farm data model is the process of recording the
 ## Farm Data Model
 <p align="center"
 
-![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Screen%20Shot%202023-03-30%20at%2010.01.21%20AM.png)
+![App Screenshot](https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Data%20Model.png)
 
 
 ## Data Model Description

@@ -1,19 +1,8 @@
-# SQL_Project_Farm
 
 
 
-SS Links
 
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Client.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Employees.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Feeding.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Livestock.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Machinery.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/MachineryLog.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/OrderDetails.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Product.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Data%20Model.png
-https://raw.githubusercontent.com/AmyN137/MySQL-Farm/main/Query%20Matrix.png
+
 
 
 
@@ -30,7 +19,7 @@ Ryan Maguire: https://github.com/rmaguire2020/SQL_Project
 
 Amy Nguyen: https://github.com/AmyN137/MySQL-Farm 
 
-Destinee Pruden: https://github.com/DPRUDEN25MySQL-Farm-Project
+Destinee Pruden: https://github.com/DPRUDEN25/DPRUDEN-SQL-Farm 
 
 Sevastian Guerrero: https://github.com/sevasguerrero
 
